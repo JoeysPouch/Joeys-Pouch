@@ -4,7 +4,7 @@ Hi all! I'm Joey. I'm a 23 year old from Nottingham with a lot of interests, one
 
 ## Projects
 
-My proudest achievement is ThePoliticsWedgesite.co.uk. It uses a statistical and visual framework I developed during my MA to auto-generate graphs that draw out the level of polarisation between two groups on an issue of your choice. The web development itself was done by my incredibly talented partner, Zarrin. Try it out! 
+My proudest achievement is ThePoliticsWedgesite.co.uk. It uses a statistical and visual framework I developed during my Master's Degree in Quantitative Politics to auto-generate graphs that draw out the level of polarisation between two groups on an issue of your choice. The web development itself was done by my incredibly talented partner, Zarrin. Try it out! 
 
 [This](https://github.com/JoeysPouch/Joeys-Pouch/blob/main/PolPar-Description-And-Proofs.pdf) is a fairly academic introduction to the aforementioned framework from the website above. It goes through the geometric interpretations, the statistical proofs and all the lovely mathematical properties, as well as giving a couple of illustrative examples.
 
