@@ -1,12 +1,12 @@
 # Joeys-Pouch
 
-Hi all! I'm Joey. I'm a guy from Nottingham with a lot of interests, one of which is data. I've worked primarily at universities but in a pretty diverse set of roles - from social statistics textbooks to supply chain data migration. That said, I do have a real soft spot for quantitative surveys and 'turning opinions into numbers'. I've tried to branch out a bit recently, though.
+Hi all! I'm Joey. I'm a 23 year old from Nottingham with a lot of interests, one of which is data. I've worked primarily at universities but in a pretty diverse set of roles - from social statistics textbooks to back-end supply chain data migration. That said, I do have a real soft spot for quantitative surveys and 'turning attitudes into numbers'.
 
 ## Here are a few things I've done you might find interesting.
 
 My proudest achievement is ThePoliticsWedgesite.co.uk. It uses a statistical and visual framework I developed during my MA to auto-generate graphs that draw out the level of polarisation between two groups on an issue of your choice. It was a joint project between myself and my incredibly talented partner, Zarrin. You can find it here. Try it out! 
 
-This is a fairly academic introduction to the aforementioned framework from the website above It goes through the geometric interpretations, the statistical proofs and all the lovely mathematical properties, as well as giving a couple of illustrative examples.
+[This](https://github.com/JoeysPouch/Joeys-Pouch/blob/main/PolPar-Description-And-Proofs) is a fairly academic introduction to the aforementioned framework from the website above. It goes through the geometric interpretations, the statistical proofs and all the lovely mathematical properties, as well as giving a couple of illustrative examples.
 
 This is a little visual report from some analysis I did on the Open University Learning Analytics Data Set, which contains an extroadinary wealth of data on student characteristics and the specific ways they interact with their online learning environments. I was a bit bored of learning about 'average score at university of x demographic compared to y' so decided to dig a bit deeper into the tail ends of the distribution and explored the characteristics of real high fliers. It was also my first attempt at machine learning that wasn't logistic regression!
 
