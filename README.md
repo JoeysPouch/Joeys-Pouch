@@ -8,7 +8,7 @@ My proudest achievement is ThePoliticsWedgesite.co.uk. It uses a statistical and
 
 [This](https://github.com/JoeysPouch/Joeys-Pouch/blob/main/PolPar-Description-And-Proofs.pdf) is a fairly academic introduction to the aforementioned framework from the website above. It goes through the geometric interpretations, the statistical proofs and all the lovely mathematical properties, as well as giving a couple of illustrative examples.
 
-This is a little visual report from some analysis I did on the Open University Learning Analytics Data Set, which contains an extroadinary wealth of data on student characteristics and the specific ways they interact with their online learning environments. I was a bit bored of learning about 'average score at university of x demographic compared to y' so decided to dig a bit deeper into the tail ends of the distribution and explored the characteristics of real high fliers. It was also my first attempt at machine learning that wasn't logistic regression!
+This is a little visual report from some analysis I did on the Open University Learning Analytics Data Set, which contains an extroadinary wealth of data on student characteristics and the specific ways they interact with their online learning environments. I was a bit bored of learning about 'average score at university of x demographic compared to y' so decided to dig a bit deeper into the tail ends of the distribution and explored the characteristics of real high fliers. It was also my first 'proper' machine learning project!
 
 [This](https://github.com/JoeysPouch/Joeys-Pouch/blob/main/Put-BA-Project-Here) is a business analytics project I did as part of a course.
 
