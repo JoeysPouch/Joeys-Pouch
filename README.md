@@ -1,6 +1,6 @@
 # Joeys-Pouch
 
-Hi all! I'm Joey. I'm a 23 year old from Nottingham with a lot of interests, one of which is data. I've worked primarily at universities but in a pretty diverse set of roles - from social statistics textbooks to back-end supply chain data migration. That said, I do have a real soft spot for quantitative surveys and 'turning attitudes into numbers'.
+Hi all! I'm Joey. I'm a 23 year old from Nottingham with a lot of interests, one of which is data analytics. I've worked primarily at universities but in a pretty diverse set of roles - from social statistics textbooks to back-end supply chain data migration. That said, I do have a real soft spot for quantitative surveys and 'turning attitudes into numbers'. Here you'll find some of the things I've made over the years. If you're interested in getting into coding/data science and you're from a social science background, drop me a message on LinkedIn!
 
 ## Projects
 
