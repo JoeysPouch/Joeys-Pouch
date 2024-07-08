@@ -12,7 +12,7 @@ This is a little visual report from some analysis I did on the Open University L
 
 [This](https://github.com/JoeysPouch/Joeys-Pouch/blob/main/Put-BA-Project-Here) is a business analytics project I did as part of a course.
 
-If you're interested, here are a couple of papers I wrote at university in the area of quantitative public opinion: 
+If you're interested, here are a couple of papers I wrote at university in the area of quantitative public opinion (though without the code, sadly): 
 
 - [This](https://github.com/JoeysPouch/Joeys-Pouch/blob/main/MA-Dissertation.pdf) is my dissertation! It's sort of on both of the topics above. It was my first attempt at applying the polarisation parallelogram to an actual set of issues. I found that, while the idea of the USA becoming 'Majority-Minority' was a fairly polarising concept, the most polarisation between liberals and conservatives on the question came on the issue of whether it'll strengthen or weaken customs and values in the country. It also contains a few musings about the quantitative measurement of political ideology.
 - [This](https://github.com/yourusername/yourrepositoryname/blob/Migration-Attitudes-And-Critique-Of-BSA-Quant-Scale/.pdf) started out as a paper on public attitudes to immigration but ended up with something more interesting. I discovered that the British Social Attitudes Survey measures 'Left-Right Wing' with nothing more than an average score over six questions, ALL of which are about economics. As a result, there's allegedly no relationship at all between 'left-wing politics' and 'support for immigration', which to me is an indication that the scale is too narrow. How to measure political ideology is itself a fascinating debate, by the way. 
