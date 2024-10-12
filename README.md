@@ -16,7 +16,7 @@ Here's an example of the output from the graph generator. Go and try it out your
 
 If you're interested, here are a couple of papers I wrote at university in the area of quantitative public opinion: 
 
-- [This](https://github.com/JoeysPouch/Joeys-Pouch/blob/main/MA-Dissertation.pdf) is my dissertation! It's sort of on both of the topics above. It was my first attempt at applying the polarisation parallelogram to an actual set of issues.
-- [This](https://github.com/JoeysPouch/Joeys-Pouch/blob/main/BSA-Paper.pdf) started out as a paper on public attitudes to immigration but ended up more as a critique of the way that 'political ideology' is often quantified and measured in social surveys.
+- [This](MA_Dissertation.pdf) is my dissertation! It's sort of on both of the topics above. It was my first attempt at applying the polarisation parallelogram to an actual set of issues.
+- [This](PO92Q_LaTeX.pdf) started out as a paper on public attitudes to immigration but ended up more as a critique of the way that 'political ideology' is often quantified and measured in social surveys.
 
 I'm also hoping to be able to share the bank of questions I wrote for an upcoming Oxford University textbook on Social Data Science soon!
