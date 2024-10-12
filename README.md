@@ -6,8 +6,7 @@ Hi all! I'm Joey, a 23 year old from Nottingham with a lot of interests, one of 
 
 ## Projects
 
-https://z-for-zarrin.github.io/political_wedges/ 
-This is a graph generator that I wrote in Python, based on a statistical and visual framework I developed during my Master's Degree in Quantitative Politics. The idea is that you pick two societal groups and a question that interests you, and it'll auto-generate graphs that draw out the level of polarisation between two groups alongside some useful statistical information. It also has really nice mathematical properties (more on this below!). The web dev half was done by my incredibly talented partner, Zarrin. Try it out!
+[Political Wedges(https://z-for-zarrin.github.io/political_wedges/) is a graph generator that I wrote in Python, based on a statistical and visual framework I developed during my Master's Degree in Quantitative Politics. The idea is that you pick two societal groups and a question that interests you, and it'll auto-generate graphs that draw out the level of polarisation between two groups alongside some useful statistical information. It also has really nice mathematical properties (more on this below!). The web dev half was done by my incredibly talented partner, Zarrin. Try it out!
 
 [This](https://github.com/JoeysPouch/Joeys-Pouch/blob/main/PolPar-Description-And-Proofs.pdf) is a fairly academic introduction to the aforementioned framework. It goes through the geometric interpretations, the statistical proofs and all the lovely mathematical properties, as well as giving a couple of illustrative examples.
 
