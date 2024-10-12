@@ -5,7 +5,8 @@ Hi all! I'm Joey, a 23 year old from Nottingham with a lot of interests, one of 
 
 ## Projects
 
-[Political Wedges](https://z-for-zarrin.github.io/political_wedges/) (endearingly nicknamed 'Wedgesite' by my partner) is a graph generator that I wrote in Python, based on a statistical and visual framework I developed during my Master's Degree in Quantitative Politics. The idea is that you pick two societal groups and a question that interests you, and it'll auto-generate graphs that draw out the level of polarisation between two groups alongside some useful statistical information. It also has really nice mathematical properties (more on this below!). The web dev half was done by my incredibly talented partner, Zarrin. Try it out!
+[Political Wedges](https://z-for-zarrin.github.io/political_wedges/) (endearingly nicknamed 'Wedgesite' by my partner) is a graph generator that I wrote in Python, based on a statistical and visual framework I developed during my Master's Degree in Quantitative Politics. The idea is that you pick two societal groups and a question that interests you, and it'll auto-generate graphs that draw out the level of polarisation between two groups alongside some useful statistical information. It also has really nice mathematical properties (more on this below!). The web dev half was done by my incredibly talented partner, Zarrin. 
+Here's an example of the output from the graph generator. Go and try it out yourself!
 
 ![Example of an output from the Political Wedge Graph Generator](wedge_example.jpg)
 
