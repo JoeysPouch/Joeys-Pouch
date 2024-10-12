@@ -10,7 +10,7 @@ Here's an example of the output from the graph generator. Go and try it out your
 
 ![Example of an output from the Political Wedge Graph Generator](wedge_example.jpg)
 
-[This](https://github.com/JoeysPouch/Joeys-Pouch/blob/main/PolPar-Description-And-Proofs.pdf) is a fairly academic introduction to the aforementioned framework. It goes through the geometric interpretations, the statistical proofs and all the lovely mathematical properties, as well as giving a couple of illustrative examples.
+[This]([https://github.com/JoeysPouch/Joeys-Pouch/blob/main/PolPar-Description-And-Proofs.pdf](https://z-for-zarrin.github.io/political_wedges/static/media/Parallelogram-Description-And-Proofs.7b2a9240744c616aec74.pdf) is a fairly academic introduction to the aforementioned framework. It goes through the geometric interpretations, the statistical proofs and all the lovely mathematical properties, as well as giving a couple of illustrative examples.
 
 [This](https://github.com/JoeysPouch/OULA-XGBoost/blob/main/Jupyter%20Notebook.ipynb) is some analysis I did on the Open University Learning Analytics Data Set - specifically, the characteristics of 'high achievers' and the ways in which they interact with their online learning environments. I was a bit bored of learning about 'average score at university of x demographic compared to y' so decided to dig a bit deeper into the tail ends of the distribution and explored the characteristics of real high fliers. It uses XGBoost, a machine learning algorithm based on ensembles of decision trees.
 
