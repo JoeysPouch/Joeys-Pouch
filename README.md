@@ -1,6 +1,6 @@
 # Joey's Pouch
 
-Hi all! I'm Joey, a 23 year old from Nottingham with a lot of interests. One of those, as of a few years ago, is doing fun and interesting things with data. So far I've worked primarily at universities but in a pretty diverse set of roles - from social statistics textbooks to back-end supply chain data migration. That said, I do have a real passion for quantitative surveys, higher education and 'turning attitudes into numbers'. Here you'll find some of the things I've made over the years. 
+Hi all! I'm Joey, a 24 year old from Nottingham. I'm a huge fan of 'people data' - that's things like public opinion, social statistics and, in my career, student and employee data. Here you'll find a few of my personal projects to have a gander at.
 
 
 ## Projects
