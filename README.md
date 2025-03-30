@@ -1,6 +1,6 @@
 # Joey's Pouch
 
-Hi all! I'm Joey, a 24 year old from Nottingham. I'm a huge fan of 'people data' - that's things like public opinion, social statistics and, in my career, student and employee data. Here you'll find a few of my personal projects to have a gander at.
+Hi all! I'm Joey, a 24 year old social data analyst currently working at Kaplan. I'm a huge fan of 'people data' - that's things like public opinion, social statistics and, in my career, student and employee data. Here you'll find a few of my personal humble projects
 
 
 ## Projects
