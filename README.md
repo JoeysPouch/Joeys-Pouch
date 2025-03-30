@@ -1,7 +1,6 @@
 # Joey's Pouch
 
-Hi all! I'm Joey, a 24 year old social data analyst currently working at Kaplan. I'm a huge fan of 'people data' - that's things like public opinion, social statistics and, in my career, student and employee data. Here you'll find a few of my personal humble projects
-
+Hi all! I'm Joey, a 24 year old social data analyst currently working at Kaplan. I'm a huge fan of 'people data' - that's things like public opinion, social statistics and, in my career, student and employee data. Here you'll find a few of my personal humble projects.
 
 ## Projects
 
@@ -12,7 +11,7 @@ Here's an example of the output from the graph generator. Go and try it out your
 
 [This](https://z-for-zarrin.github.io/political_wedges/static/media/Parallelogram-Description-And-Proofs.7b2a9240744c616aec74.pdf) is a fairly academic introduction to the aforementioned framework. It goes through the geometric interpretations, the statistical proofs and all the lovely mathematical properties, as well as giving a couple of illustrative examples.
 
-[This](https://github.com/JoeysPouch/OULA-XGBoost/blob/main/Jupyter%20Notebook.ipynb) is some analysis I did on the Open University Learning Analytics Data Set - specifically, the characteristics of 'high achievers' and the ways in which they interact with their online learning environments. I was a bit bored of learning about 'average score at university of x demographic compared to y' so decided to dig a bit deeper into the tail ends of the distribution and explored the characteristics of real high fliers. It uses XGBoost, a machine learning algorithm based on ensembles of decision trees.
+[This](https://github.com/JoeysPouch/OULA-XGBoost/blob/main/Jupyter%20Notebook.ipynb) is some analysis I did on the Open University Learning Analytics Data Set - specifically, the characteristics of 'high achievers' and the ways in which they interact with their online learning environments. I was a bit bored of learning about 'average score at university of x demographic compared to y' so decided to dig a bit deeper into the tail ends of the distribution and explored the characteristics of real high fliers. It uses XGBoost, a machine learning algorithm based on ensembles of decision trees. It's unabadeshly amateurish - I did it right after a couple of introductory ML and SQL courses, and wasn't super familiar with a lot of conventions or tricks. It was still really worth doing, but don't expect anything genius!
 
 If you're interested, here are a couple of papers I wrote at university in the area of quantitative public opinion: 
 
